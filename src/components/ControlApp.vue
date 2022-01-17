@@ -7,7 +7,14 @@
       <chat></chat>
     </div>
 
-    <div class="control2"></div>
+    <div class="control2">
+      <iframe
+        class="web-frame"
+        scrolling="no"
+        src="http://192.168.43.153:8080/browserfs.html"
+        frameborder="0"
+      ></iframe>
+    </div>
   </div>
 </template>
 
@@ -47,6 +54,7 @@ h1 {
   width: 80%;
   height: 100vh;
   background: green;
+  overflow: hidden;
 }
 
 .s-text {
@@ -57,5 +65,12 @@ h1 {
 .chat {
   height: 100vh;
   overflow-y: auto;
+}
+
+.web-frame {
+  width: 100%;
+  height: 100vh;
+  margin-top: 50px;
+  /* margin-top: -300px;  */
 }
 </style>

@@ -7,10 +7,10 @@
         <li>
           Surveillance
         </li>
-        <li>
+        <li class="active">
           Inbox
         </li>
-        <li class="active">
+        <li>
           Data Report
         </li>
         <li>
@@ -57,5 +57,11 @@ li {
   list-style: none;
   color: white;
   margin: 0 10px;
+}
+
+.active {
+  background: grey;
+  border-radius: 8px;
+  padding: 2px 8px;
 }
 </style>
