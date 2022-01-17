@@ -32,3 +32,11 @@ yarn run serve
 ```
 yarn build
 ```
+
+### Figma Links
+
+https://www.figma.com/file/Yl0vZ3xVgJ5UFueAmZPPpV/Team-Revolution?node-id=0%3A1
+
+https://www.figma.com/file/AISQiGitoM4uo6K9z8IwIz/Team-Revolution-Architecture?node-id=0%3A1
+
+https://www.figma.com/file/wg7loPohx7KdoIQ0pRLNkW/Team-Revolution-Flow?node-id=0%3A1
