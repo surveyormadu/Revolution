@@ -1,12 +1,19 @@
-Team: Team REVOLUTION
+## Team
 
-Team members:
+```
+Team REVOLUTION
+```
+
+## Team Members
+
+```
 Michael Andrew
 Moses Sarah Funmilola
 Jemimah Feyisayo Moses
 Ebiwonjumi Daniel Olamide
 Maduabuchukwu John Onyinyechukwu
 Idris Bilyaminu Ndasadu'Lau
+```
 
 ## Project setup
 
